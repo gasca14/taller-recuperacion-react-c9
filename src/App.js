@@ -1,11 +1,9 @@
-
-import Micomponente from './components/Micomponente';
+import AppRouter from './routes/AppRouter';
 
 function App() {
   return (
     <>
-    <h1>Poyecto de REACT limpio</h1>
-    <Micomponente/>
+   <AppRouter/>
     </>
   );
 }

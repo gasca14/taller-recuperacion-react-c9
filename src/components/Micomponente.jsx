@@ -3,7 +3,7 @@ import React from 'react'
 const Micomponente = () => {
   return (
     <>
-    <h3>Mi componente</h3>
+    <h3>Hola soy un componente</h3>
     <p>hola</p>
     </>
   )
